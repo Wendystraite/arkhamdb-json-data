@@ -305,7 +305,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "mystic",
-        "flavor": "\"They worshipped, so they said, the Great Old Ones who lived ages before there were any men, and who came to the young world out of the sky.\"\n<i>-H. P. Lovecraft, </i>The Call of Cthulhu",
+        "flavor": "\"They worshipped, so they said, the Great Old Ones who lived ages before there were any men, and who came to the young world out of the sky.\"\n-H. P. Lovecraft, <i>The Call of Cthulhu</i>",
         "health": 1,
         "illustrator": "Stanislav Dikolenko",
         "name": "Ceremonial Robes",
