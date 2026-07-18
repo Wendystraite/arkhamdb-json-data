@@ -104,7 +104,7 @@
     "name": "Túnica ceremonial",
     "traits": "Objeto. Ropa.",
     "text": "Reduce en 1 el coste de la primera carta [[Hechizo]] o [[Ritual]] que juegues en cada ronda.",
-    "flavor": "\"Tal y como dijeron, adoraban a los Primigenios que existen desde mucho antes que los hombres y que vinieron a este joven mundo desde los cielos.\"\n— H. P. Lovecraft, <i>\"La Llamada de Cthulhu\"</i>"
+    "flavor": "\"Tal y como dijeron, adoraban a los Primigenios que existen desde mucho antes que los hombres y que vinieron a este joven mundo desde los cielos.\"\n— H.P. Lovecraft, <i>\"La Llamada de Cthulhu\"</i>"
   },
   {
     "code": "60471",
